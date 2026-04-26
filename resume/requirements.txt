@@ -1,8 +1,0 @@
-fastapi
-uvicorn
-spacy
-nltk
-scikit-learn
-pandas
-python-docx
-pymupdf
