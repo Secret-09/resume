@@ -6,3 +6,4 @@ scikit-learn
 pandas
 python-docx
 pymupdf
+python-multipart
